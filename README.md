@@ -12,15 +12,17 @@ Find information above for running tests
 git clone https://github.com/Milena1993/CypressHomework.git
 
 
-## 2. Global Dependencies
-### install the node_modules
+## 2. Dependencies
+
+## Install Node.js.
+### install the node_modules using
  ```shell
 npm install
  ```
  The project is written using v16.16.0 version of Node.js and version 9.7.0 of Cypress
 
   
-## Running Tests
+## 3. Running Tests
 Run tests for browser mode
  ```shell
 npx cypress open
