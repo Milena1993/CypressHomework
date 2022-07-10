@@ -21,11 +21,12 @@ npm install
  The project is written using v16.14.2 version of Node.js and version 9.7.0 of Cypress
 
   
-## Run tests using
+## Running Tests
+Run tests using for browser mode
  ```shell
 npx cypress open
  ```
-    
+Run tests using for headless mode 
  ```shell
 npx cypress run
  ```
