@@ -9,7 +9,7 @@ Find information above for running tests
 
 
 ## clone this repo to a local directory
-git clone https://github.com:Milena1993/CypressHomework.git
+git clone https://github.com/Milena1993/CypressHomework.git
 
 
 ## 2. Global Dependencies
@@ -17,8 +17,7 @@ git clone https://github.com:Milena1993/CypressHomework.git
  ```shell
 npm install
  ```
- 
- The project is written using v16.14.2 version of Node.js and version 9.7.0 of Cypress
+ The project is written using v16.16.0 version of Node.js and version 9.7.0 of Cypress
 
   
 ## Running Tests
