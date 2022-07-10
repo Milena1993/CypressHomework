@@ -22,12 +22,11 @@ npm install
 
   
 ## Run tests using
-
-    ```shell
-    npx cypress open
-    ```
+ ```shell
+npx cypress open
+ ```
     
-     ```shell
-     npx cypress run
-     ```
+ ```shell
+npx cypress run
+ ```
 
