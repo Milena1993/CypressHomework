@@ -5,6 +5,7 @@ You can get a copy of all files used in this tutorial by cloning this repository
 ```shell
 git clone https://github.com/Milena1993/CypressHomework.git
 ```
+The project is written using v16.16.0 version of Node.js and version 9.7.0 of Cypress
 
 ## Setup
 
@@ -20,8 +21,6 @@ Install [Node.js.](https://nodejs.org/en/)
  ```shell
 npm install
  ```
- The project is written using v16.16.0 version of Node.js and version 9.7.0 of Cypress
-
   
 ## 3. Running Tests
 Run tests for browser mode
