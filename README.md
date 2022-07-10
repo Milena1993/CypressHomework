@@ -1,6 +1,4 @@
-Adding and Removing Product on SauceDemo.com using Cypress
-
-Find information above for running tests
+# Adding and Removing Product on SauceDemo.com using Cypress
 
 You can get a copy of all files used in this tutorial by cloning this repository!
 
