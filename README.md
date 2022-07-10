@@ -22,11 +22,11 @@ npm install
 
   
 ## Running Tests
-Run tests using for browser mode
+Run tests for browser mode
  ```shell
 npx cypress open
  ```
-Run tests using for headless mode 
+Run tests for headless mode 
  ```shell
 npx cypress run
  ```
