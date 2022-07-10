@@ -17,11 +17,10 @@ Running Tests
 
     Run tests using:
 
-    browser mode:
     ```shell
     npx cypress open
     ```
      ```shell
-    headless mode: npx cypress run
+     npx cypress run
      ```
 
