@@ -8,9 +8,11 @@ Find information above for running tests
 [Follow these instructions to install Cypress.](https://on.cypress.io/installing-cypress)
 
 
-## clone this repo to a local directory
-git clone https://github.com/Milena1993/CypressHomework.git
+You can get a copy of all files used in this tutorial by cloning this repository!
 
+```shell
+git clone https://github.com/Milena1993/CypressHomework.git
+```
 
 ## 2. Dependencies
 
