@@ -14,8 +14,11 @@ git clone git@github.com:Milena1993/CypressHomework.git
 
 ## 2. Global Dependencies
 ## install the node_modules
+ ```shell
 npm install
-    The project is written using v16.14.2 version of Node.js and version 9.7.0 of Cypress
+ ```
+
+ The project is written using v16.14.2 version of Node.js and version 9.7.0 of Cypress
 
   
 ## Running Tests
