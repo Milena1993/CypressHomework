@@ -17,13 +17,11 @@ git clone git@github.com:Milena1993/CypressHomework.git
  ```shell
 npm install
  ```
-
+ 
  The project is written using v16.14.2 version of Node.js and version 9.7.0 of Cypress
 
   
-## Running Tests
-
-    Run tests using:
+## Run tests using
 
     ```shell
     npx cypress open
