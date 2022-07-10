@@ -10,9 +10,9 @@ Find information above for running tests
     Project Dependencies
         cd to root directory of the project
         Install Node modules using:
-```shell
+    ```shell
     npm install
-```
+    ```
 Running Tests
 
     Run tests using:
