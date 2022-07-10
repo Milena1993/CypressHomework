@@ -13,7 +13,7 @@ git clone git@github.com:Milena1993/CypressHomework.git
 
 
 ## 2. Global Dependencies
-## install the node_modules
+# install the node_modules
  ```shell
 npm install
  ```
