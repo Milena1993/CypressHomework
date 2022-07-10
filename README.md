@@ -14,7 +14,7 @@ git clone https://github.com/Milena1993/CypressHomework.git
 
 ## 2. Dependencies
 
-Install Node.js.
+Install [Node.js.](https:)/nodejs.org/en/)
 ### install the node_modules using
  ```shell
 npm install
