@@ -9,7 +9,7 @@ Find information above for running tests
 
 
 ## clone this repo to a local directory
-git clone git@github.com:Milena1993/CypressHomework.git
+git clone https://github.com:Milena1993/CypressHomework.git
 
 
 ## 2. Global Dependencies
